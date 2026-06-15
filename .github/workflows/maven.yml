@@ -44,7 +44,7 @@ jobs:
           mvn sonar:sonar \
           -Dsonar.host.url=https://sonarcloud.io \
           -Dsonar.organization=yogaekapratama29 \
-          -Dsonar.projectKey=yogaekapratama29_Basic-Java-Maven
+          -Dsonar.projectKey=yogaekapratama29_Basic-Java-Maven-main
 
       - name: Publish Package to GitHub Packages
         run: mvn deploy
