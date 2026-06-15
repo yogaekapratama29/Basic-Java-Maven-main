@@ -7,7 +7,7 @@
 
     <groupId>com.yogaekapratama</groupId>
     <artifactId>contohproject</artifactId>
-    <version>0.3.5</version>
+    <version>0.3.6</version>
     <packaging>jar</packaging>
 
     <name>contohproject</name>
